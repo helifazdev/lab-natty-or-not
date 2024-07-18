@@ -20,32 +20,56 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+A Revolução das IAs no Mercado da Tecnologia (Literatura de cordel)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Pensei em criar uma coisa bem regional para saber se IA também é cultura nordestina, pedi ao Chat GPT para criar um literatura de cordel falando sobre IAs e como elas vão revolucionar e estão revolucionando o mercado da tecnologia
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Chat GPT
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Expliquei ao GPT, o que era a literatura de cordel, citei alguns bem famosos para ele utilizar de base e por fim pedi que ele gerasse um texto justamente sobre a comunidade dele
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No sertão da inovação, vou contar sem demora,
+A história das IAs, que a todos agora assola.
+De máquinas inteligentes, que nos fazem pensar,
+Como o mundo da tecnologia elas vão transformar.
+
+O começo foi tímido, com pouca ambição,
+Mas logo evoluíram, e ganharam dimensão.
+Nos campos da ciência, e na medicina também,
+As IAs já mostraram que fazem muito bem.
+
+Na indústria da fábrica, com precisão e vigor,
+As máquinas trabalham, sem cansaço ou temor.
+O mercado se adapta, se reinventa, se alinha,
+Com a inteligência artificial, a nova rainha.
+
+No mundo dos negócios, estratégia e visão,
+As IAs calculam, preveem a decisão.
+Com dados e algoritmos, em um piscar de olhar,
+Empresas prosperam, conseguem se reinventar.
+
+A vida cotidiana, também vai transformar,
+Com assistentes virtuais, que nos vêm a ajudar.
+Nas casas inteligentes, conforto e segurança,
+A revolução digital, nos enche de esperança.
+
+Mas não há só flores, desafios há de montão,
+Questões éticas surgem, que pedem solução.
+A privacidade e os dados, a todos preocupar,
+É preciso cautela, pra esse barco não naufragar.
+
+Os empregos também mudam, a mão de obra se adapta,
+Novas habilidades, o mercado já capta.
+A educação se molda, prepara o cidadão,
+Para o futuro próximo, da revolução.
+
+Por isso, meu amigo, não temas o porvir,
+As IAs estão aqui, e vieram para servir.
+Com ética e prudência, podemos prosperar,
+E com a inteligência artificial, o futuro abraçar.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Acho que eu comprar esse cordel, achei completamente "Natty"😜
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
